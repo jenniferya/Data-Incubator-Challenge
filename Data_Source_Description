@@ -19,14 +19,15 @@ that have been issued by North American or emerging markets companies.
 - EEM: the Emerging Market Index seeks to track the investment results of an index composed of large- and mid-capitalization
 emerging market equities.
 - SSE Composite Index: a stock market index of all stocks that are traded at the Shanghai Stock Exchange. 
-- P/C Options Ratio: 
-- SPX 1M Realized Volume
-- VIX Option Volumn
-- 5y5y FWD
-- Dow Jones Index
+- P/C Options Ratio: n indicator that measures total put options volume relative to call options volume.
+- SPX 1M Realized Volume: this index seeks to reflect the 1-Month realized volatility in the daily levels of the S&P 500. 
+Realized volatility measures the variations in the price of a security over a given period.
+- VIX Option Volumn: VIX Options historical Volume
+- 5y5y FWD: this series is a measure of expected inflation (on average) over the five-year period that begins five years from today.
+- Dow Jones Index: a stock market index that measures the stock performance of 30 large companies listed on stock exchanges in the United States.
 - Oil Price
 - Gold Price
 - Soybean Price
-- Google Search Volume Index (SVI)
+- Google Search Volume Index (SVI: Google search volume index on some relevant keywords, such as debt, interest, crisis etc.
 
 
