@@ -2,7 +2,7 @@
 macrotrends.net, quandl.com etc.
 - The output variable of the dataset is the change in VIX, which can be measured using the VIX close price difference from
 day t-1 to day t.
-- The input variables include 20 different factors: AUD vs JPY, EUR vs USD, USD vs CNY, US 2 year Yield, US 10 year Yield, 
+- The input variables include 20 different factors that are relevant for VIX changes, including: AUD vs JPY, EUR vs USD, USD vs CNY, US 2 year Yield, US 10 year Yield, 
 S&P 500, CDX IG 5 year, EEM, SSE Composite Index, P/C Options Ratio, SPX 1M Realized Volume, VIX Option Volumn, 5y5y FWD, 
 Dow Jones Index, Oil Price, Gold Price, Soybean Price and Google Search Volume Index (SVI)
 
