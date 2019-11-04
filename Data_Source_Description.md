@@ -1,3 +1,5 @@
+# Data Source Description
+
 - The data sets are extracted from multiple sources including Bloomberg, FRED (https://fred.stlouisfed.org/series/VIXCLS), 
 macrotrends.net, quandl.com etc.
 - The output variable of the dataset is the change in VIX, which can be measured using the VIX close price difference from
